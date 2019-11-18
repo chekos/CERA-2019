@@ -8,6 +8,6 @@ dependencies:
   - altair==3.2.0
   - vega==2.6.0
   - vega_datasets==0.7.0
-  - pip==19.3.1
+  - pip
   - pip:
     - xlrd==1.2.0
