@@ -9,4 +9,5 @@ dependencies:
   - vega_datasets==0.7.0
   - pip
   - pip:
-    - xlrd==1.2.0
+    - xlrd
+    - openpyxl
