@@ -1,4 +1,6 @@
-cera-2019
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chekos/CERA-2019/master?urlpath=lab%2Ftree%2Fnotebooks%2F00_DataPrep.ipynb)
+***
+CERA 2019
 ==============================
 
 * project code: NA
